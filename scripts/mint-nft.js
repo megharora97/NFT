@@ -51,7 +51,10 @@ async function mintNFT(tokenURI) {
     });
 }
 mintNFT(
-  "https://gateway.pinata.cloud/ipfs/QmVBZ7D5JwA8zL8G8sJg1oQ6H91PUSwqoLF2T8YNUxjvBh"
+  "https://ipfs.io/ipfs/QmUobe1FzPSt2ehrUYS2mLkH3u1qVEpgErF5LhZ4vNPaPF"
 );
 
-//0x6320b100a8aefca4e81fe493068c7d9f43c397d25b275c2092995c536cd598bb
+
+// 0x6b075602f96085f285b619a5cf20d602d30efb15dfa675ae5ac3ccee7db28185
+
+// 0xe2421936a3f1c8b642e3bb15bf4e328fff35e32afc32d899b08f3d1fc774f4ac 
